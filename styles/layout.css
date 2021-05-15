@@ -1,0 +1,43 @@
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	padding: 0px;
+	color: #000000;
+	background-color: #FFFFFF;
+	background-image: url('../media/science-pattern-design.jpg');
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: left top;
+	background-size: 200px 200px;
+	font-family: Calibri;
+	font-size: 12pt;
+}
+.class_title {
+}
+.class_subtitle {
+}
+.class_remarks {
+}
+.class_qst_format {
+	font-family: Calibri;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.class_before_after_qst_format {
+	font-family: Calibri;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.class_ans_format {
+}
+.class_feedback_format {
+}
+.class_feedback_table_format {
+	border-width: 0px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 10px;
+}
+
